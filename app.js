@@ -196,9 +196,10 @@ joe.scopeArrow();
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-// "this" is the information that is given.
+// "this" is the information that is given such as his name, age, and hometown.
 
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+// It is empty objects
+
 // 3. Explain why "this" is different when an arrow function is used.
-//
+// "this" represents an object that executes the current function.
